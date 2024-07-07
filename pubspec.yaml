@@ -1,0 +1,12 @@
+name: MyApp
+description: ""
+dependencies:
+  cached_network_image: null
+  dio: null
+  flutter_bloc: null
+  geolocator: null
+  http: null
+  image_picker: null
+  permission_handler: null
+  provider: null
+dev_dependencies: {}
